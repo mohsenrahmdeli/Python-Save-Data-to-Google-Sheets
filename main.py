@@ -14,7 +14,3 @@ worksheet = spreadsheet.sheet1  # Or you can use the name of the sheet: spreadsh
 # Add a new row
 row = ["example@example.com", "valid"]  # Here you can enter the information you want
 worksheet.append_row(row)
-
-
-
-
